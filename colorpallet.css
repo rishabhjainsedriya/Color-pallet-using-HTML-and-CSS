@@ -1,0 +1,27 @@
+h1{
+  text-align: center;
+}
+.tabl{
+  margin: auto;
+}
+td{
+  background-color: black;
+  height: 300px;
+  width: 100px;
+  border: 5px solid white;
+}
+#one{
+  background-color: #ffbe0b;
+}
+#two{
+  background-color: #fb5607;
+}
+#three{
+  background-color: #ff006e;
+}
+#four{
+  background-color: #8338ec;
+}
+#five{
+  background-color: #3a86ff;
+}
